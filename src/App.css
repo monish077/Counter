@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+.container{
+  text-align: center;
+  background-color: antiquewhite;
+  padding: 50px;
+  min-height: 100vh;
+
+}
+.container.dark-mode{
+  background-color: #333;
+  color: white;
+}
+
+.btn{
+
+  margin: 10px;
+  padding: 10px 20px;
+  font: size 18px;
+  background-color: tomato;
+  color: beige;
+  border: none;
+  border-radius: 100vh;
+
+
+}
+
+.reset{
+  background-color: blue;
+
+}
